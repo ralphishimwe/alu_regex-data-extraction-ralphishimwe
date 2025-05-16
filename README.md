@@ -1,4 +1,4 @@
-#Regex Data Extraction "alu_regex-data-extraction-ralphishimwe"
+## Regex Data Extraction "alu_regex-data-extraction-ralphishimwe"
 
 This project demonstrates the use of Python's Regular Expressions module to extract structured data from raw text. The script extracts: Email
 addresses, phone numbers, hashtags and time formats in 12 hour and 24 hour format.
@@ -6,8 +6,8 @@ addresses, phone numbers, hashtags and time formats in 12 hour and 24 hour forma
 
 ## File Structure
 
-regex_extractor.py # Main Python script with regex logic
-README.md # This file
+regex_extractor.py 
+README.md 
 
 
 ## How to Run the Script
